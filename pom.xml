@@ -10,7 +10,6 @@
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
     <version>4.44.0</version>
-    <scope>compile</scope>
 </dependency>
   
 <!-- Source: https://mvnrepository.com/artifact/org.testng/testng -->
@@ -18,7 +17,6 @@
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.11.0</version>
-    <scope>test</scope>
 </dependency>
   
   <!-- Extent Report -->
