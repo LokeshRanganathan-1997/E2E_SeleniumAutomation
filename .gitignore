@@ -1,0 +1,23 @@
+# Maven generated files
+target/
+
+# Test output
+test-output/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# Environment and secret files
+.env
